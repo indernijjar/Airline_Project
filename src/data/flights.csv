@@ -1,0 +1,6 @@
+id,flightNumber,origin,destination,departure,arrival,baseFare,capacity
+F001,AC101,Vancouver,Toronto,2026-04-20T08:00,2026-04-20T15:30,450.00,120
+F002,AC205,Calgary,Montreal,2026-04-21T09:15,2026-04-21T15:00,390.00,100
+F003,WS310,Vancouver,Calgary,2026-04-22T12:20,2026-04-22T14:40,180.00,90
+F004,AC404,Toronto,Vancouver,2026-05-10T16:00,2026-05-10T19:10,470.00,120
+F005,WS550,Montreal,Halifax,2026-05-12T11:45,2026-05-12T13:20,150.00,80
