@@ -1,0 +1,2 @@
+reservationId,passengerName,passengerEmail,flightId,ticketType,ticketNumber,createdAt,status,paymentId,refundAmount
+RES-9724940D,Test User,test@example.com,F001,ECONOMY,TKT-520FACBB,2026-04-09T20:54:51.441748980,CANCELED,PAY-7C092D1C,0
