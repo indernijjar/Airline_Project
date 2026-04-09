@@ -36,3 +36,9 @@ This solution provides:
 3. Copy the reservation ID shown in the booking result.
 4. Confirm the reservation using the exact fare shown.
 5. Cancel the reservation to test refund behavior.
+
+## How to run
+
+-Run the AirlineReservationApp.java File
+
+## Thank you 
